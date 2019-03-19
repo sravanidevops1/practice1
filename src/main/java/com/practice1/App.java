@@ -1,7 +1,7 @@
 package com.practice1;
 
 /**
- * Hello world!
+ * Hello world how are you!
  *
  */
 public class App 
